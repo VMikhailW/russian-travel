@@ -1,0 +1,12 @@
+@import url(./__title/intro__title.css);
+@import url(./__text/intro__text.css);
+@import url(./__list/intro__list.css);
+@import url(./__list-digit/intro__list-digit.css);
+
+.intro {
+    background-color: #2A2C2F;
+    max-width: 984px;
+    margin: 0 auto;
+    padding-bottom: 92px;
+  }
+  
