@@ -7,6 +7,8 @@
  является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries. 
 
 
+[Проектная работа на GitHub Pages](https://vmikhailw.github.io/russian-travel/index.html ) 
+
 ## Функционал: 
 
 * Адаптивный дизайн под laptop и мобильные устройства. 
