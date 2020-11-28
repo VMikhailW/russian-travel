@@ -8,8 +8,7 @@
 .cover {
   position: relative;
   width: 1184px;
-  height: 740px; /*так как Я использовал стиль оТ десктопа к мобильному, поэтому использовал максимальную высоту картинки, а в cover__link задал min-height: 100%;*/
-  margin: 0 auto;
+  min-height: 740px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
