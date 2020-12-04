@@ -8,6 +8,7 @@
     min-height: 740px;
     margin: 0px auto;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
