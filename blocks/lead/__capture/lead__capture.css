@@ -26,6 +26,7 @@
 
 @media screen and (max-width: 374px) {
   .lead__capture {
-      padding-left: 12px;
+    padding-left: 12px;
+    margin-bottom: 64px;
   }
 }
