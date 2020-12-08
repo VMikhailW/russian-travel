@@ -13,9 +13,30 @@
   overflow-y: hidden;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 425px) {
   .cover__title {
     margin: 33px 16px 16px 16px;
+    padding: 0px 92px 0px 92px;
+    max-width: 288px;
+    font-size: 29px;
+    line-height: 1.09;
+   }
+}
+
+@media screen and (max-width: 375px) {
+  .cover__title {
+    margin: 33px 16px 16px 16px;
+    padding: 0px 62px 0px 62px;
+    max-width: 288px;
+    font-size: 29px;
+    line-height: 1.09;
+   }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    margin: 33px 16px 16px 16px;
+    padding: 0px 32px 0px 32px;
     max-width: 288px;
     font-size: 29px;
     line-height: 1.09;
