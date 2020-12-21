@@ -15,9 +15,8 @@
 
 @media screen and (max-width: 425px) {
   .cover__title {
-    margin: 33px 16px 16px 16px;
-    padding: 0px 52px 0px 52px;
-    max-width: 288px;
+    margin: 33px 20px 16px 20px;
+    padding: 0px 62px 0px 62px;
     font-size: 34px;
     line-height: 1.2;
    }
@@ -25,7 +24,7 @@
 
 @media screen and (max-width: 375px) {
   .cover__title {
-    margin: 33px 16px 16px 16px;
+    margin: 33px 18px 16px 18px;
     padding: 0px 48px 0px 48px;
     font-size: 32px;
     line-height: 1.1;
