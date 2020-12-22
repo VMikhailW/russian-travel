@@ -13,20 +13,14 @@
 /* Оксана Сергеева - Я по личному пожеланию не хочу объединять медиазоны, на отображение работы это не как не влияет Поэтому примите работу так! С наступающим новом годом Вас! */
 
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (min-width: 375px) and (max-width: 1279px) {
     .cover {
       width: 100%;
       /*max-height: 640px;*/
     }
   }
   
-  @media screen and (min-width: 375px) and (max-width: 1023px) {
-    .cover {
-      width: 100%;
-     /* max-height: 480px;*/
-    }
-  }
-  
+
   @media screen and (max-width: 767px){
     .cover {
       width: 100%;
