@@ -22,8 +22,7 @@
   background: #2a2c2f;
   opacity: 0.3;
   transition: opacity 0.3s ease;
-  overflow-x: hidden;
-  overflow-y: hidden;
+ 
 }
 
 .cover__link:hover::before {
