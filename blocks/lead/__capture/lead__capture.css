@@ -1,5 +1,5 @@
 .lead__capture {
-  margin: 8px 0 24px;
+  max-width: 158px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -9,6 +9,7 @@
   text-transform: uppercase;
   color: #ffffff;
   align-self: start;
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -27,6 +28,6 @@
 @media screen and (max-width: 374px) {
   .lead__capture {
     padding-left: 12px;
-    margin-bottom: 64px;
+   
   }
 }
