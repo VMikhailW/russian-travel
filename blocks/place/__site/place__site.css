@@ -5,6 +5,6 @@
 @media screen and (max-width: 767px) {
   .place__site {
       /*display: none;*/
-      padding: 0px 0px 0px 12px;
+      padding: 0px 0px 0px 16px;
   }
 }
